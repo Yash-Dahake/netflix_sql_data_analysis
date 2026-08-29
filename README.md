@@ -1,6 +1,7 @@
 # 🎬 Netflix Movies and TV Shows — SQL Data Analysis
 
-https://1000logos.net/wp-content/uploads/2017/05/Netflix-Logo.png
+![Uploading image.png…]()
+
 
 ## 1. Project Overview
 
