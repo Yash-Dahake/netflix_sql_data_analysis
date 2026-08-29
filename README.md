@@ -1,6 +1,6 @@
 # 🎬 Netflix Movies and TV Shows — SQL Data Analysis
 
-<img width="656" height="372" alt="image" src="https://github.com/user-attachments/assets/5c66a95a-09a5-4bdd-ae54-96ff3d25aa00" />
+<img width="800" height="372" alt="image" src="https://github.com/user-attachments/assets/5c66a95a-09a5-4bdd-ae54-96ff3d25aa00" />
 
 
 ## 1. Project Overview
