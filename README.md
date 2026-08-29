@@ -1,6 +1,7 @@
 # 🎬 Netflix Movies and TV Shows — SQL Data Analysis
 
-https://www.bing.com/images/search?view=detailV2&ccid=jRn6i8uv&id=A620A560082097EFCD21F98C97BE42C9F144D9FE&thid=OIP.jRn6i8uvuSeLn6Kda1bX_wHaEK&mediaurl=https%3a%2f%2fwallpapers-clan.com%2fwp-content%2fuploads%2f2025%2f09%2fnetflix-logo-on-a-black-background-desktop-wallpaper-preview-768x432.jpg&exph=432&expw=768&q=Netflix+Logo+in+black+bg&FORM=IRPRST&ck=6210657533685396BACC7FE620688FEE&selectedIndex=1&itb=0
+<img width="656" height="372" alt="image" src="https://github.com/user-attachments/assets/5c66a95a-09a5-4bdd-ae54-96ff3d25aa00" />
+
 
 ## 1. Project Overview
 
