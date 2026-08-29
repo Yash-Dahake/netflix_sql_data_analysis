@@ -1,6 +1,5 @@
 # 🎬 Netflix Movies and TV Shows — SQL Data Analysis
-<img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/9d2f685e-0f1a-4903-a83b-ed44059e3ce8" />
-
+Netflix-Logo.png
 ## 1. Project Overview
 
 This project focuses on analyzing Netflix Movies and TV Shows data using **PostgreSQL and SQL**. The objective is to explore the Netflix content catalog and extract meaningful insights by solving a series of practical data analysis questions.
